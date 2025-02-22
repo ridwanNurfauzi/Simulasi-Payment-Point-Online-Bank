@@ -12,7 +12,7 @@ Payment Point Online Bank (PPOB) adalah sistem pembayaran online yang memanfaat 
 ### Dengan _Shell Script_ (.sh)
 
 1. Buka terminal
-2. Jalankan perintah [`run.sh`](run.sh)
+2. Jalankan perintah [`./run.sh`](run.sh)
 
 
 ## Kode Sumber
